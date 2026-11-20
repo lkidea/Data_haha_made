@@ -1,0 +1,15 @@
+- nahrat do photopey
+- oriznout důkladně
+- u statických přidat duplikovany layer, pojmenovat "_a_vrstva,2000" (2000 = 2s, aby to ne"blikalo" zbytečně často) ideálně pojmenovat první a pak duplikovat - míň práce
+- exportovat jako webp
+- při exportu řádně pojmenovat, na začátek jména dát )
+
+
+- oříznuté
+- layer
+  - _a_před
+  - za,2000
+  - duplikovat
+- export webp
+- jméno s )
+- kvalita 100% ideálně
